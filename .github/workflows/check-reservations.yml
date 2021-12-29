@@ -1,0 +1,33 @@
+name: check-reservations
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '10 0,10 * * *' # At minute 10 past hour 0 and 10.
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: check out this repo
+      uses: actions/checkout@v2
+    - name: setup python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.7.12'
+    - name: install python packages
+      run: |-
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    - name: execute script 
+      env: 
+        RESY_API_KEY: ${{ secrets.RESY_API_KEY }}
+      run: python reservations.py
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data retrieved at: ${timestamp}" || exit 0
+        git push
