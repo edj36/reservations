@@ -27,7 +27,7 @@ jobs:
       env: 
         FROM_ADDRESS: ${{ secrets.FROM_ADDRESS }}
         FROM_ADDRESS_PASSWORD: ${{ secrets.FROM_ADDRESS_PASSWORD }}
-      run: python email.py
+      run: python send_email.py
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
