@@ -17,6 +17,7 @@ restaurants = [
     {'url_slug':'the-polo-bar','city':'ny','venue_id':'6439','source':'resy'},
     {'url_slug':'nami-nori','city':'ny','venue_id':'7425','source':'resy'},
     {'url_slug':'minetta-tavern','city':'ny','venue_id':'9846','source':'resy'},
+    {'url_slug':'lilia','city':'ny','venue_id':'418','source':'resy'},
     # {'url_slug':'her-name-is-han','city':'ny','venue_id':'1010','source':'resy'},
     # {'url_slug':'lartusi-ny','city':'ny','venue_id':'25973','source':'resy'},
     # {'url_slug':'joseph-leonard','city':'ny','venue_id':'394','source':'resy'},
