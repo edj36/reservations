@@ -23,10 +23,12 @@ reservations_df['dinner'] = (
     (pd.to_datetime(reservations_df['res_time']).dt.hour <= 20)
 )
 
+reservations_df['day_of_week'] = pd.to_datetime(reservations_df['res_time']).dt.day_name()
+
 df_as_html = (
     reservations_df[reservations_df['dinner']==True]
     .groupby(by=['name', 'date'], as_index=False)
-    .agg({'dinner':'count', 'url':'first'})
+    .agg({'dinner':'count', 'day_of_week':'first', 'url':'first'})
 ).to_html(index=False)
 
 # create message container - the correct MIME type is multipart/alternative.
