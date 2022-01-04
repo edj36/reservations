@@ -33,7 +33,7 @@ df_as_html = (
 
 # create message container - the correct MIME type is multipart/alternative.
 msg = MIMEMultipart('alternative')
-msg['Subject'] = f"Reservations checked on: {today_datetime.strftime('%Y-%m-%d')}"
+msg['Subject'] = f"Reservations checked on: {today_datetime.strftime('%Y-%m-%d %H:%M:%S')}"
 msg['From'] = FROM_ADDRESS
 msg['To'] = TO_ADDRESSES
 
