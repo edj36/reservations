@@ -3,7 +3,7 @@ name: check-reservations
 on:
   workflow_dispatch:
   schedule:
-    - cron: '10 5,15 * * *' # Runs at 05:10 UTC (00:10 EST) and 15:10 UTC (10:10 EST) every day
+    - cron: '0 5,15 * * *' # Runs at 05:00 UTC (00:00 EST) and 15:00 UTC (10:00 EST) every day
 
 jobs:
   scheduled:
@@ -30,7 +30,7 @@ jobs:
       run: python send_email.py
     - name: Commit and push if it changed
       run: |-
-        git config user.name "Automated"
+        git config user.name "github-actions"
         git config user.email "actions@users.noreply.github.com"
         git add -A
         timestamp=$(date -u)
