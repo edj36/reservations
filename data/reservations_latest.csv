@@ -1,5 +1,7 @@
 name,venue_id,date,res_time,res_type,source,url_slug,url
 Nami Nori West Village,7425,2022-01-29,2022-01-29 12:00:00,Indoor Counter,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-01-29&seats=2
+Nami Nori West Village,7425,2022-01-29,2022-01-29 12:30:00,Indoor Counter,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-01-29&seats=2
+Nami Nori West Village,7425,2022-01-29,2022-01-29 13:00:00,Indoor Table,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-01-29&seats=2
 Nami Nori West Village,7425,2022-01-29,2022-01-29 13:30:00,Indoor Counter,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-01-29&seats=2
 Nami Nori West Village,7425,2022-01-29,2022-01-29 14:00:00,Indoor Counter,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-01-29&seats=2
 Nami Nori West Village,7425,2022-01-30,2022-01-30 12:00:00,Indoor Counter,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-01-30&seats=2
@@ -11,11 +13,13 @@ Nami Nori West Village,7425,2022-01-30,2022-01-30 13:30:00,Indoor Counter,resy,n
 Nami Nori West Village,7425,2022-01-30,2022-01-30 13:30:00,Outdoor Dining,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-01-30&seats=2
 Nami Nori West Village,7425,2022-01-30,2022-01-30 14:00:00,Indoor Counter,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-01-30&seats=2
 Nami Nori West Village,7425,2022-01-30,2022-01-30 14:00:00,Outdoor Dining,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-01-30&seats=2
+Nami Nori West Village,7425,2022-01-30,2022-01-30 14:30:00,Indoor Counter,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-01-30&seats=2
 Nami Nori West Village,7425,2022-01-30,2022-01-30 14:30:00,Outdoor Dining,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-01-30&seats=2
 Nami Nori West Village,7425,2022-01-30,2022-01-30 15:00:00,Outdoor Dining,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-01-30&seats=2
 Nami Nori West Village,7425,2022-01-30,2022-01-30 15:30:00,Outdoor Dining,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-01-30&seats=2
 Nami Nori West Village,7425,2022-01-30,2022-01-30 16:00:00,Outdoor Dining,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-01-30&seats=2
 Nami Nori West Village,7425,2022-01-30,2022-01-30 16:30:00,Outdoor Dining,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-01-30&seats=2
+Nami Nori West Village,7425,2022-01-30,2022-01-30 17:00:00,Indoor Table,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-01-30&seats=2
 Nami Nori West Village,7425,2022-01-30,2022-01-30 17:00:00,Outdoor Dining,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-01-30&seats=2
 Nami Nori West Village,7425,2022-01-30,2022-01-30 17:15:00,Outdoor Dining,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-01-30&seats=2
 Nami Nori West Village,7425,2022-01-30,2022-01-30 17:30:00,Outdoor Dining,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-01-30&seats=2
@@ -26,16 +30,13 @@ Nami Nori West Village,7425,2022-01-30,2022-01-30 18:30:00,Outdoor Dining,resy,n
 Nami Nori West Village,7425,2022-01-30,2022-01-30 18:45:00,Outdoor Dining,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-01-30&seats=2
 Nami Nori West Village,7425,2022-01-30,2022-01-30 19:00:00,Outdoor Dining,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-01-30&seats=2
 Nami Nori West Village,7425,2022-01-30,2022-01-30 19:15:00,Outdoor Dining,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-01-30&seats=2
-Nami Nori West Village,7425,2022-01-30,2022-01-30 19:30:00,Indoor Table,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-01-30&seats=2
 Nami Nori West Village,7425,2022-01-30,2022-01-30 19:30:00,Outdoor Dining,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-01-30&seats=2
 Nami Nori West Village,7425,2022-01-30,2022-01-30 19:45:00,Outdoor Dining,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-01-30&seats=2
-Nami Nori West Village,7425,2022-01-30,2022-01-30 20:00:00,Indoor Table,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-01-30&seats=2
 Nami Nori West Village,7425,2022-01-30,2022-01-30 20:00:00,Outdoor Dining,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-01-30&seats=2
 Nami Nori West Village,7425,2022-01-30,2022-01-30 20:15:00,Outdoor Dining,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-01-30&seats=2
 Nami Nori West Village,7425,2022-01-30,2022-01-30 20:30:00,Outdoor Dining,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-01-30&seats=2
 Nami Nori West Village,7425,2022-01-30,2022-01-30 20:45:00,Outdoor Dining,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-01-30&seats=2
 Nami Nori West Village,7425,2022-01-30,2022-01-30 21:00:00,Indoor Counter,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-01-30&seats=2
-Nami Nori West Village,7425,2022-01-30,2022-01-30 21:00:00,Indoor Table,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-01-30&seats=2
 Nami Nori West Village,7425,2022-01-30,2022-01-30 21:00:00,Outdoor Dining,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-01-30&seats=2
 Nami Nori West Village,7425,2022-01-30,2022-01-30 21:30:00,Indoor Counter,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-01-30&seats=2
 Nami Nori West Village,7425,2022-01-30,2022-01-30 21:30:00,Indoor Table,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-01-30&seats=2
@@ -147,6 +148,7 @@ Nami Nori West Village,7425,2022-02-02,2022-02-02 19:00:00,Outdoor Dining,resy,n
 Nami Nori West Village,7425,2022-02-02,2022-02-02 19:15:00,Outdoor Dining,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-02-02&seats=2
 Nami Nori West Village,7425,2022-02-02,2022-02-02 19:30:00,Outdoor Dining,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-02-02&seats=2
 Nami Nori West Village,7425,2022-02-02,2022-02-02 19:45:00,Outdoor Dining,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-02-02&seats=2
+Nami Nori West Village,7425,2022-02-02,2022-02-02 20:00:00,Indoor Counter,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-02-02&seats=2
 Nami Nori West Village,7425,2022-02-02,2022-02-02 20:00:00,Outdoor Dining,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-02-02&seats=2
 Nami Nori West Village,7425,2022-02-02,2022-02-02 20:15:00,Outdoor Dining,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-02-02&seats=2
 Nami Nori West Village,7425,2022-02-02,2022-02-02 20:30:00,Outdoor Dining,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-02-02&seats=2
@@ -227,7 +229,6 @@ Nami Nori West Village,7425,2022-02-04,2022-02-04 17:30:00,Indoor Counter,resy,n
 Nami Nori West Village,7425,2022-02-04,2022-02-04 17:30:00,Outdoor Dining,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-02-04&seats=2
 Nami Nori West Village,7425,2022-02-04,2022-02-04 17:45:00,Outdoor Dining,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-02-04&seats=2
 Nami Nori West Village,7425,2022-02-04,2022-02-04 18:00:00,Indoor Counter,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-02-04&seats=2
-Nami Nori West Village,7425,2022-02-04,2022-02-04 18:00:00,Indoor Table,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-02-04&seats=2
 Nami Nori West Village,7425,2022-02-04,2022-02-04 18:00:00,Outdoor Dining,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-02-04&seats=2
 Nami Nori West Village,7425,2022-02-04,2022-02-04 18:15:00,Outdoor Dining,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-02-04&seats=2
 Nami Nori West Village,7425,2022-02-04,2022-02-04 18:30:00,Indoor Counter,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-02-04&seats=2
@@ -237,8 +238,6 @@ Nami Nori West Village,7425,2022-02-04,2022-02-04 18:45:00,Outdoor Dining,resy,n
 Nami Nori West Village,7425,2022-02-04,2022-02-04 19:00:00,Indoor Counter,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-02-04&seats=2
 Nami Nori West Village,7425,2022-02-04,2022-02-04 19:00:00,Outdoor Dining,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-02-04&seats=2
 Nami Nori West Village,7425,2022-02-04,2022-02-04 19:15:00,Outdoor Dining,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-02-04&seats=2
-Nami Nori West Village,7425,2022-02-04,2022-02-04 19:30:00,Indoor Counter,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-02-04&seats=2
-Nami Nori West Village,7425,2022-02-04,2022-02-04 19:30:00,Indoor Table,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-02-04&seats=2
 Nami Nori West Village,7425,2022-02-04,2022-02-04 19:30:00,Outdoor Dining,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-02-04&seats=2
 Nami Nori West Village,7425,2022-02-04,2022-02-04 19:45:00,Outdoor Dining,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-02-04&seats=2
 Nami Nori West Village,7425,2022-02-04,2022-02-04 20:00:00,Indoor Counter,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-02-04&seats=2
@@ -251,8 +250,7 @@ Nami Nori West Village,7425,2022-02-04,2022-02-04 21:00:00,Indoor Counter,resy,n
 Nami Nori West Village,7425,2022-02-04,2022-02-04 21:00:00,Outdoor Dining,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-02-04&seats=2
 Nami Nori West Village,7425,2022-02-04,2022-02-04 21:30:00,Indoor Counter,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-02-04&seats=2
 Nami Nori West Village,7425,2022-02-04,2022-02-04 21:30:00,Outdoor Dining,resy,nami-nori,https://resy.com/cities/ny/nami-nori?date=2022-02-04&seats=2
-Minetta Tavern,9846,2022-01-29,2022-01-29 11:00:00,Dining Room,resy,minetta-tavern,https://resy.com/cities/ny/minetta-tavern?date=2022-01-29&seats=2
-Minetta Tavern,9846,2022-01-29,2022-01-29 14:00:00,Dining Room,resy,minetta-tavern,https://resy.com/cities/ny/minetta-tavern?date=2022-01-29&seats=2
+Minetta Tavern,9846,2022-01-29,2022-01-29 11:30:00,Dining Room,resy,minetta-tavern,https://resy.com/cities/ny/minetta-tavern?date=2022-01-29&seats=2
 Minetta Tavern,9846,2022-01-30,2022-01-30 17:00:00,Outdoors,resy,minetta-tavern,https://resy.com/cities/ny/minetta-tavern?date=2022-01-30&seats=2
 Minetta Tavern,9846,2022-01-30,2022-01-30 21:30:00,Outdoors,resy,minetta-tavern,https://resy.com/cities/ny/minetta-tavern?date=2022-01-30&seats=2
 Minetta Tavern,9846,2022-01-30,2022-01-30 22:30:00,Dining Room,resy,minetta-tavern,https://resy.com/cities/ny/minetta-tavern?date=2022-01-30&seats=2
@@ -378,13 +376,12 @@ Minetta Tavern,9846,2022-02-11,2022-02-11 14:00:00,OUTDOORS,resy,minetta-tavern,
 Minetta Tavern,9846,2022-02-11,2022-02-11 14:30:00,Dining Room,resy,minetta-tavern,https://resy.com/cities/ny/minetta-tavern?date=2022-02-11&seats=2
 Minetta Tavern,9846,2022-02-11,2022-02-11 15:00:00,Dining Room,resy,minetta-tavern,https://resy.com/cities/ny/minetta-tavern?date=2022-02-11&seats=2
 Minetta Tavern,9846,2022-02-11,2022-02-11 15:00:00,OUTDOORS,resy,minetta-tavern,https://resy.com/cities/ny/minetta-tavern?date=2022-02-11&seats=2
+Minetta Tavern,9846,2022-02-11,2022-02-11 21:30:00,Dining Room,resy,minetta-tavern,https://resy.com/cities/ny/minetta-tavern?date=2022-02-11&seats=2
 Minetta Tavern,9846,2022-02-12,2022-02-12 11:00:00,Dining Room,resy,minetta-tavern,https://resy.com/cities/ny/minetta-tavern?date=2022-02-12&seats=2
 Minetta Tavern,9846,2022-02-12,2022-02-12 11:00:00,OUTDOORS,resy,minetta-tavern,https://resy.com/cities/ny/minetta-tavern?date=2022-02-12&seats=2
 Minetta Tavern,9846,2022-02-12,2022-02-12 11:30:00,Dining Room,resy,minetta-tavern,https://resy.com/cities/ny/minetta-tavern?date=2022-02-12&seats=2
 Minetta Tavern,9846,2022-02-12,2022-02-12 11:30:00,OUTDOORS,resy,minetta-tavern,https://resy.com/cities/ny/minetta-tavern?date=2022-02-12&seats=2
-Minetta Tavern,9846,2022-02-12,2022-02-12 13:00:00,Dining Room,resy,minetta-tavern,https://resy.com/cities/ny/minetta-tavern?date=2022-02-12&seats=2
 Minetta Tavern,9846,2022-02-12,2022-02-12 13:00:00,OUTDOORS,resy,minetta-tavern,https://resy.com/cities/ny/minetta-tavern?date=2022-02-12&seats=2
-Minetta Tavern,9846,2022-02-12,2022-02-12 13:30:00,Dining Room,resy,minetta-tavern,https://resy.com/cities/ny/minetta-tavern?date=2022-02-12&seats=2
 Minetta Tavern,9846,2022-02-12,2022-02-12 14:00:00,OUTDOORS,resy,minetta-tavern,https://resy.com/cities/ny/minetta-tavern?date=2022-02-12&seats=2
 Minetta Tavern,9846,2022-02-13,2022-02-13 11:00:00,Dining Room,resy,minetta-tavern,https://resy.com/cities/ny/minetta-tavern?date=2022-02-13&seats=2
 Minetta Tavern,9846,2022-02-13,2022-02-13 11:00:00,OUTDOORS,resy,minetta-tavern,https://resy.com/cities/ny/minetta-tavern?date=2022-02-13&seats=2
@@ -392,8 +389,8 @@ Minetta Tavern,9846,2022-02-13,2022-02-13 11:30:00,Dining Room,resy,minetta-tave
 Minetta Tavern,9846,2022-02-13,2022-02-13 11:30:00,OUTDOORS,resy,minetta-tavern,https://resy.com/cities/ny/minetta-tavern?date=2022-02-13&seats=2
 Minetta Tavern,9846,2022-02-13,2022-02-13 12:30:00,Dining Room,resy,minetta-tavern,https://resy.com/cities/ny/minetta-tavern?date=2022-02-13&seats=2
 Minetta Tavern,9846,2022-02-13,2022-02-13 13:00:00,OUTDOORS,resy,minetta-tavern,https://resy.com/cities/ny/minetta-tavern?date=2022-02-13&seats=2
-Minetta Tavern,9846,2022-02-13,2022-02-13 14:00:00,Dining Room,resy,minetta-tavern,https://resy.com/cities/ny/minetta-tavern?date=2022-02-13&seats=2
 Minetta Tavern,9846,2022-02-13,2022-02-13 14:00:00,OUTDOORS,resy,minetta-tavern,https://resy.com/cities/ny/minetta-tavern?date=2022-02-13&seats=2
+Minetta Tavern,9846,2022-02-13,2022-02-13 18:30:00,Dining Room,resy,minetta-tavern,https://resy.com/cities/ny/minetta-tavern?date=2022-02-13&seats=2
 Minetta Tavern,9846,2022-02-13,2022-02-13 22:45:00,Dining Room,resy,minetta-tavern,https://resy.com/cities/ny/minetta-tavern?date=2022-02-13&seats=2
 Minetta Tavern,9846,2022-02-15,2022-02-15 17:00:00,Outdoors,resy,minetta-tavern,https://resy.com/cities/ny/minetta-tavern?date=2022-02-15&seats=2
 Minetta Tavern,9846,2022-02-15,2022-02-15 21:00:00,Outdoors,resy,minetta-tavern,https://resy.com/cities/ny/minetta-tavern?date=2022-02-15&seats=2
@@ -567,7 +564,6 @@ Minetta Tavern,9846,2022-02-27,2022-02-27 14:30:00,Dining Room,resy,minetta-tave
 Minetta Tavern,9846,2022-02-27,2022-02-27 17:00:00,Dining Room,resy,minetta-tavern,https://resy.com/cities/ny/minetta-tavern?date=2022-02-27&seats=2
 Minetta Tavern,9846,2022-02-27,2022-02-27 17:00:00,Outdoors,resy,minetta-tavern,https://resy.com/cities/ny/minetta-tavern?date=2022-02-27&seats=2
 Minetta Tavern,9846,2022-02-27,2022-02-27 17:30:00,Dining Room,resy,minetta-tavern,https://resy.com/cities/ny/minetta-tavern?date=2022-02-27&seats=2
-Minetta Tavern,9846,2022-02-27,2022-02-27 18:00:00,Dining Room,resy,minetta-tavern,https://resy.com/cities/ny/minetta-tavern?date=2022-02-27&seats=2
 Minetta Tavern,9846,2022-02-27,2022-02-27 19:00:00,Outdoors,resy,minetta-tavern,https://resy.com/cities/ny/minetta-tavern?date=2022-02-27&seats=2
 Minetta Tavern,9846,2022-02-27,2022-02-27 19:30:00,Dining Room,resy,minetta-tavern,https://resy.com/cities/ny/minetta-tavern?date=2022-02-27&seats=2
 Minetta Tavern,9846,2022-02-27,2022-02-27 21:00:00,Dining Room,resy,minetta-tavern,https://resy.com/cities/ny/minetta-tavern?date=2022-02-27&seats=2
@@ -594,3 +590,6 @@ Minetta Tavern,9846,2022-02-28,2022-02-28 21:30:00,Outdoors,resy,minetta-tavern,
 Minetta Tavern,9846,2022-02-28,2022-02-28 22:00:00,Dining Room,resy,minetta-tavern,https://resy.com/cities/ny/minetta-tavern?date=2022-02-28&seats=2
 Minetta Tavern,9846,2022-02-28,2022-02-28 22:30:00,Dining Room,resy,minetta-tavern,https://resy.com/cities/ny/minetta-tavern?date=2022-02-28&seats=2
 Minetta Tavern,9846,2022-02-28,2022-02-28 22:45:00,Dining Room,resy,minetta-tavern,https://resy.com/cities/ny/minetta-tavern?date=2022-02-28&seats=2
+Lilia,418,2022-02-22,2022-02-22 18:00:00,Yurt,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-02-22&seats=2
+Lilia,418,2022-02-27,2022-02-27 16:00:00,Yurt,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-02-27&seats=2
+Lilia,418,2022-02-27,2022-02-27 21:00:00,Yurt,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-02-27&seats=2
