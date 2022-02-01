@@ -120,7 +120,7 @@ for r in restaurants:
         (today_datetime + timedelta(30)).strftime('%Y-%m-%d'),
         NUM_SEATS,
     )
-    time.sleep(0.5) # respect the api
+#     time.sleep(0.5) # respect the api
 
     for a in avail.get('scheduled', []):
         avail_by_date.append({
@@ -147,7 +147,7 @@ to_check = list(
 available_reservations = []
 for venue_id, date in to_check:
     times = get_available_reservations_resy(date, venue_id, party_size=NUM_SEATS)
-    time.sleep(0.5) # respect the api
+#     time.sleep(0.5) # respect the api
     for v in times['results']['venues']:
         name = v['venue']['name']
         resy_venue_id = v['venue']['id']['resy']
