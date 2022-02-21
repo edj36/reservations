@@ -1,12 +1,2 @@
 name,venue_id,date,res_time,res_type,source,url_slug,url
-Lilia,418,2022-03-21,2022-03-21 16:00:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-03-21&seats=2
-Lilia,418,2022-03-21,2022-03-21 16:00:00,Yurt,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-03-21&seats=2
-Lilia,418,2022-03-21,2022-03-21 16:15:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-03-21&seats=2
-Lilia,418,2022-03-21,2022-03-21 16:30:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-03-21&seats=2
-Lilia,418,2022-03-21,2022-03-21 16:45:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-03-21&seats=2
-Lilia,418,2022-03-21,2022-03-21 16:45:00,Yurt,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-03-21&seats=2
-Lilia,418,2022-03-21,2022-03-21 17:15:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-03-21&seats=2
-Lilia,418,2022-03-21,2022-03-21 17:30:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-03-21&seats=2
-Lilia,418,2022-03-21,2022-03-21 17:30:00,Yurt,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-03-21&seats=2
-Lilia,418,2022-03-21,2022-03-21 17:45:00,Yurt,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-03-21&seats=2
-Lilia,418,2022-03-21,2022-03-21 21:00:00,Yurt,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-03-21&seats=2
+4 Charles Prime Rib,834,2022-03-03,2022-03-03 21:15:00,Patio,resy,4-charles-prime-rib,https://resy.com/cities/ny/4-charles-prime-rib?date=2022-03-03&seats=2
