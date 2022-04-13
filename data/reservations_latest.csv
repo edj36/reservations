@@ -1,4 +1,8 @@
 name,venue_id,date,res_time,res_type,source,url_slug,url
-Lilia,418,2022-04-13,2022-04-13 16:00:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-04-13&seats=2
 Lilia,418,2022-04-13,2022-04-13 16:15:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-04-13&seats=2
-Lilia,418,2022-04-13,2022-04-13 16:45:00,Yurt,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-04-13&seats=2
+Lilia,418,2022-05-11,2022-05-11 16:00:00,Patio,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-05-11&seats=2
+Lilia,418,2022-05-12,2022-05-12 16:00:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-05-12&seats=2
+Lilia,418,2022-05-12,2022-05-12 16:00:00,Patio,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-05-12&seats=2
+Lilia,418,2022-05-12,2022-05-12 16:00:00,Piazza,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-05-12&seats=2
+Lilia,418,2022-05-12,2022-05-12 16:15:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-05-12&seats=2
+Lilia,418,2022-05-12,2022-05-12 16:15:00,Patio,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-05-12&seats=2
