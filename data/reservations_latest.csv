@@ -1,9 +1,12 @@
 name,venue_id,date,res_time,res_type,source,url_slug,url
-4 Charles Prime Rib,834,2022-05-09,2022-05-09 22:00:00,Dining Room,resy,4-charles-prime-rib,https://resy.com/cities/ny/4-charles-prime-rib?date=2022-05-09&seats=2
-Lilia,418,2022-06-07,2022-06-07 16:00:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-06-07&seats=2
-Lilia,418,2022-06-07,2022-06-07 16:00:00,Patio,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-06-07&seats=2
-Lilia,418,2022-06-07,2022-06-07 16:00:00,Piazza,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-06-07&seats=2
-Lilia,418,2022-06-07,2022-06-07 16:15:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-06-07&seats=2
-Lilia,418,2022-06-07,2022-06-07 16:15:00,Patio,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-06-07&seats=2
-Lilia,418,2022-06-07,2022-06-07 16:30:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-06-07&seats=2
-Lilia,418,2022-06-07,2022-06-07 16:30:00,Piazza,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-06-07&seats=2
+Lilia,418,2022-05-10,2022-05-10 16:00:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-05-10&seats=2
+Lilia,418,2022-05-10,2022-05-10 16:15:00,Patio,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-05-10&seats=2
+Lilia,418,2022-05-10,2022-05-10 16:30:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-05-10&seats=2
+Lilia,418,2022-05-10,2022-05-10 16:30:00,Patio,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-05-10&seats=2
+Lilia,418,2022-05-10,2022-05-10 16:45:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-05-10&seats=2
+Lilia,418,2022-06-08,2022-06-08 16:00:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-06-08&seats=2
+Lilia,418,2022-06-08,2022-06-08 16:00:00,Patio,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-06-08&seats=2
+Lilia,418,2022-06-08,2022-06-08 16:00:00,Piazza,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-06-08&seats=2
+Lilia,418,2022-06-08,2022-06-08 16:15:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-06-08&seats=2
+Lilia,418,2022-06-08,2022-06-08 16:15:00,Patio,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-06-08&seats=2
+Lilia,418,2022-06-08,2022-06-08 16:30:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-06-08&seats=2
