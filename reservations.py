@@ -171,5 +171,8 @@ for venue_id, date in to_check:
                     'url':resy_url,
                 })
 
-reservations_df = pd.DataFrame(available_reservations)
+if len(available_reservations) > 0:
+    reservations_df = pd.DataFrame(available_reservations)
+else:
+    reservations_df = pd.DataFrame(columns=['name','venue_id','date','res_time','res_type','source','url_slug','url'])
 reservations_df.to_csv('data/reservations_latest.csv', index=False)
