@@ -1,8 +1,19 @@
 name,venue_id,date,res_time,res_type,source,url_slug,url
-Lilia,418,2022-07-06,2022-07-06 16:00:00,Piazza,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-07-06&seats=2
-Lilia,418,2022-07-06,2022-07-06 16:15:00,Patio,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-07-06&seats=2
-Lilia,418,2022-07-06,2022-07-06 16:30:00,Piazza,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-07-06&seats=2
-Lilia,418,2022-07-25,2022-07-25 16:00:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-07-25&seats=2
-Lilia,418,2022-07-26,2022-07-26 16:00:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-07-26&seats=2
-Lilia,418,2022-07-28,2022-07-28 16:00:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-07-28&seats=2
-Lilia,418,2022-08-02,2022-08-02 16:00:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-08-02&seats=2
+Lilia,418,2022-07-06,2022-07-06 21:00:00,Patio,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-07-06&seats=2
+Lilia,418,2022-08-04,2022-08-04 16:00:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-08-04&seats=2
+Lilia,418,2022-08-04,2022-08-04 16:00:00,Patio,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-08-04&seats=2
+Lilia,418,2022-08-04,2022-08-04 16:00:00,Piazza,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-08-04&seats=2
+Lilia,418,2022-08-04,2022-08-04 16:15:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-08-04&seats=2
+Lilia,418,2022-08-04,2022-08-04 16:15:00,Patio,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-08-04&seats=2
+Lilia,418,2022-08-04,2022-08-04 16:30:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-08-04&seats=2
+Lilia,418,2022-08-04,2022-08-04 16:30:00,Patio,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-08-04&seats=2
+Lilia,418,2022-08-04,2022-08-04 16:30:00,Piazza,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-08-04&seats=2
+Lilia,418,2022-08-04,2022-08-04 16:45:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-08-04&seats=2
+Lilia,418,2022-08-04,2022-08-04 16:45:00,Patio,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-08-04&seats=2
+Lilia,418,2022-08-04,2022-08-04 16:45:00,Piazza,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-08-04&seats=2
+Lilia,418,2022-08-04,2022-08-04 17:00:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-08-04&seats=2
+Lilia,418,2022-08-04,2022-08-04 17:00:00,Patio,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-08-04&seats=2
+Lilia,418,2022-08-04,2022-08-04 17:15:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-08-04&seats=2
+Lilia,418,2022-08-04,2022-08-04 18:00:00,Patio,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-08-04&seats=2
+Lilia,418,2022-08-04,2022-08-04 20:45:00,Piazza,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-08-04&seats=2
+Lilia,418,2022-08-04,2022-08-04 21:15:00,Patio,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-08-04&seats=2
