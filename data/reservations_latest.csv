@@ -1,16 +1,2 @@
 name,venue_id,date,res_time,res_type,source,url_slug,url
-Lilia,418,2022-09-25,2022-09-25 16:00:00,Patio,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-09-25&seats=2
-Lilia,418,2022-09-25,2022-09-25 16:15:00,Patio,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-09-25&seats=2
-Lilia,418,2022-09-25,2022-09-25 16:15:00,Piazza,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-09-25&seats=2
-Lilia,418,2022-09-25,2022-09-25 16:30:00,Patio,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-09-25&seats=2
-Lilia,418,2022-09-25,2022-09-25 16:45:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-09-25&seats=2
-Lilia,418,2022-09-25,2022-09-25 17:00:00,Piazza,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-09-25&seats=2
-Lilia,418,2022-09-25,2022-09-25 19:45:00,Patio,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-09-25&seats=2
-Lilia,418,2022-09-25,2022-09-25 19:45:00,Piazza,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-09-25&seats=2
-Lilia,418,2022-09-25,2022-09-25 20:00:00,Patio,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-09-25&seats=2
-Lilia,418,2022-09-25,2022-09-25 20:15:00,Patio,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-09-25&seats=2
-Lilia,418,2022-09-25,2022-09-25 20:30:00,Patio,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-09-25&seats=2
-Lilia,418,2022-09-25,2022-09-25 20:45:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-09-25&seats=2
-Lilia,418,2022-09-25,2022-09-25 21:00:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-09-25&seats=2
-Lilia,418,2022-09-25,2022-09-25 21:15:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-09-25&seats=2
-Lilia,418,2022-09-25,2022-09-25 21:30:00,Piazza,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-09-25&seats=2
+Lilia,418,2022-09-13,2022-09-13 16:00:00,Patio,resy,lilia,https://resy.com/cities/ny/lilia?date=2022-09-13&seats=2
