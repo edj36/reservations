@@ -1,1 +1,18 @@
 name,venue_id,date,res_time,res_type,source,url_slug,url
+4 Charles Prime Rib,834,2023-06-21,2023-06-21 21:45:00,Patio,resy,4-charles-prime-rib,https://resy.com/cities/ny/4-charles-prime-rib?date=2023-06-21&seats=2
+Lilia,418,2023-07-11,2023-07-11 16:45:00,Piazza,resy,lilia,https://resy.com/cities/ny/lilia?date=2023-07-11&seats=2
+Lilia,418,2023-07-18,2023-07-18 16:00:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2023-07-18&seats=2
+Lilia,418,2023-07-18,2023-07-18 16:00:00,Patio,resy,lilia,https://resy.com/cities/ny/lilia?date=2023-07-18&seats=2
+Lilia,418,2023-07-18,2023-07-18 16:15:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2023-07-18&seats=2
+Lilia,418,2023-07-18,2023-07-18 16:15:00,Patio,resy,lilia,https://resy.com/cities/ny/lilia?date=2023-07-18&seats=2
+Lilia,418,2023-07-18,2023-07-18 16:15:00,Piazza,resy,lilia,https://resy.com/cities/ny/lilia?date=2023-07-18&seats=2
+Lilia,418,2023-07-18,2023-07-18 16:30:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2023-07-18&seats=2
+Lilia,418,2023-07-18,2023-07-18 16:30:00,Patio,resy,lilia,https://resy.com/cities/ny/lilia?date=2023-07-18&seats=2
+Lilia,418,2023-07-18,2023-07-18 16:30:00,Piazza,resy,lilia,https://resy.com/cities/ny/lilia?date=2023-07-18&seats=2
+Lilia,418,2023-07-18,2023-07-18 16:45:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2023-07-18&seats=2
+Lilia,418,2023-07-18,2023-07-18 16:45:00,Piazza,resy,lilia,https://resy.com/cities/ny/lilia?date=2023-07-18&seats=2
+Lilia,418,2023-07-18,2023-07-18 17:00:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2023-07-18&seats=2
+Lilia,418,2023-07-18,2023-07-18 17:15:00,Piazza,resy,lilia,https://resy.com/cities/ny/lilia?date=2023-07-18&seats=2
+Lilia,418,2023-07-18,2023-07-18 21:00:00,Patio,resy,lilia,https://resy.com/cities/ny/lilia?date=2023-07-18&seats=2
+Lilia,418,2023-07-18,2023-07-18 21:15:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2023-07-18&seats=2
+Lilia,418,2023-07-18,2023-07-18 21:30:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2023-07-18&seats=2
