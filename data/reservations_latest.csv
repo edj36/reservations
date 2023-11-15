@@ -1,4 +1,5 @@
 name,venue_id,date,res_time,res_type,source,url_slug,url
-Lilia,418,2023-11-14,2023-11-14 16:00:00,Bar,resy,lilia,https://resy.com/cities/ny/lilia?date=2023-11-14&seats=2
-Lilia,418,2023-11-14,2023-11-14 16:15:00,Bar,resy,lilia,https://resy.com/cities/ny/lilia?date=2023-11-14&seats=2
-Lilia,418,2023-11-14,2023-11-14 16:15:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2023-11-14&seats=2
+Lilia,418,2023-11-15,2023-11-15 16:00:00,Bar,resy,lilia,https://resy.com/cities/ny/lilia?date=2023-11-15&seats=2
+Lilia,418,2023-11-15,2023-11-15 16:00:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2023-11-15&seats=2
+Lilia,418,2023-11-15,2023-11-15 16:15:00,Bar,resy,lilia,https://resy.com/cities/ny/lilia?date=2023-11-15&seats=2
+Lilia,418,2023-11-15,2023-11-15 16:30:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2023-11-15&seats=2
