@@ -1,3 +1,5 @@
 name,venue_id,date,res_time,res_type,source,url_slug,url
+4 Charles Prime Rib,834,2023-12-13,2023-12-13 22:00:00,Dining Room,resy,4-charles-prime-rib,https://resy.com/cities/ny/4-charles-prime-rib?date=2023-12-13&seats=2
 Lilia,418,2023-12-06,2023-12-06 16:00:00,Bar,resy,lilia,https://resy.com/cities/ny/lilia?date=2023-12-06&seats=2
 Lilia,418,2023-12-06,2023-12-06 16:30:00,Bar,resy,lilia,https://resy.com/cities/ny/lilia?date=2023-12-06&seats=2
+Lilia,418,2023-12-13,2023-12-13 21:15:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2023-12-13&seats=2
