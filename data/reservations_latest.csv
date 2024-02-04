@@ -1,9 +1,3 @@
 name,venue_id,date,res_time,res_type,source,url_slug,url
-Lilia,418,2024-02-05,2024-02-05 16:00:00,Bar,resy,lilia,https://resy.com/cities/ny/lilia?date=2024-02-05&seats=2
-Lilia,418,2024-02-05,2024-02-05 16:15:00,Bar,resy,lilia,https://resy.com/cities/ny/lilia?date=2024-02-05&seats=2
 Lilia,418,2024-02-06,2024-02-06 16:00:00,Bar,resy,lilia,https://resy.com/cities/ny/lilia?date=2024-02-06&seats=2
-Lilia,418,2024-02-06,2024-02-06 16:15:00,Bar,resy,lilia,https://resy.com/cities/ny/lilia?date=2024-02-06&seats=2
-Lilia,418,2024-02-06,2024-02-06 16:30:00,Bar,resy,lilia,https://resy.com/cities/ny/lilia?date=2024-02-06&seats=2
-Lilia,418,2024-02-07,2024-02-07 16:00:00,Bar,resy,lilia,https://resy.com/cities/ny/lilia?date=2024-02-07&seats=2
-Lilia,418,2024-02-07,2024-02-07 16:15:00,Bar,resy,lilia,https://resy.com/cities/ny/lilia?date=2024-02-07&seats=2
-Lilia,418,2024-02-08,2024-02-08 16:00:00,Bar,resy,lilia,https://resy.com/cities/ny/lilia?date=2024-02-08&seats=2
+Lilia,418,2024-02-06,2024-02-06 16:00:00,Indoor,resy,lilia,https://resy.com/cities/ny/lilia?date=2024-02-06&seats=2
